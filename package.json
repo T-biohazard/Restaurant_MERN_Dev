@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-awesome-slider": "^4.1.0",
+    "react-dom": "^19.0.0",
+    "react-responsive-carousel": "^3.2.23",
+    "swiper": "^11.1.15",
+    "vite": "^6.0.4"
+  }
+}
