@@ -28,6 +28,7 @@ export default function Navbar() {
               className="menu menu-sm dropdown-content bg-black bg-opacity-90 rounded-box z-[1] mt-3 w-52 p-2 shadow text-white">
               <li> <li><Link to="/">Home</Link></li></li>
               <li><Link to="/menu">Our Menu</Link></li>
+              <li><Link to="/order">Order Food</Link></li>
               <li><a href="#contact-us">About Us</a></li>
             </ul>
           </div>
@@ -39,6 +40,7 @@ export default function Navbar() {
           <ul className="menu menu-horizontal px-1">
             <li><Link to="/">Home</Link></li>
             <li><Link to="/menu">Our Menu</Link></li>
+            <li><Link to="/order">Order Food</Link></li>
             <li><a href="#about-us">About Us</a></li>
           </ul>
         </div>
