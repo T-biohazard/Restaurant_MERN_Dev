@@ -11,14 +11,14 @@ import Testimonials from "./Testimonials/Testimonials";
 export default function Home() {
   return (
 
-
     <div >
+          
       <Banner></Banner>
       <Category></Category>
       <PopularMenu></PopularMenu>
       <Feature></Feature>
       <Testimonials></Testimonials>
-<Order></Order>
+      <Order></Order>
 
     </div>
 
